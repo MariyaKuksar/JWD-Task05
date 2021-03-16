@@ -1,0 +1,791 @@
+2021-03-09 00:01:29 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:01:29 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:01:29 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:01:29 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:01:29 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:01:29 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:01:29 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:01:29 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:01:29 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:01:29 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:01:29 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:01:29 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:01:29 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:01:29 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:01:29 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=PERISHABLE]took up the ramp 0
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=PERISHABLE]took up the ramp 1
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL]took up the ramp 2
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]took up the ramp 3
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=PERISHABLE]took up the ramp 4
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=PERISHABLE]took up the ramp 5
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=EMPTY]took up the ramp 6
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY]took up the ramp 7
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL]took up the ramp 8
+2021-03-09 00:02:54 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]took up the ramp 9
+2021-03-09 00:02:55 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY]left the ramp 0
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]took up the ramp 0
+2021-03-09 00:02:55 INFO  Truck - Truck [numberTruck=1, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY]left the ramp 1
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]took up the ramp 1
+2021-03-09 00:02:55 INFO  Truck - Truck [numberTruck=3, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=PERISHABLE]took up the ramp 4
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]left the ramp 4
+2021-03-09 00:02:55 INFO  Truck - Truck [numberTruck=2, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]left the ramp 5
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY]took up the ramp 5
+2021-03-09 00:02:55 INFO  Truck - Truck [numberTruck=2, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]left the ramp 8
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL]took up the ramp 8
+2021-03-09 00:02:55 INFO  Truck - Truck [numberTruck=0, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=EMPTY]left the ramp 1
+2021-03-09 00:02:55 INFO  Truck - Truck [numberTruck=3, typeOfGoods=NORMAL] loaded goods
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL]left the ramp 3
+2021-03-09 00:02:55 INFO  Truck - Truck [numberTruck=3, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]left the ramp 8
+2021-03-09 00:02:55 INFO  Truck - Truck [numberTruck=0, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=EMPTY]left the ramp 4
+2021-03-09 00:02:55 INFO  Truck - Truck [numberTruck=0, typeOfGoods=NORMAL] loaded goods
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]left the ramp 6
+2021-03-09 00:02:55 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY]left the ramp 2
+2021-03-09 00:02:55 INFO  Truck - Truck [numberTruck=4, typeOfGoods=NORMAL] loaded goods
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL]left the ramp 7
+2021-03-09 00:02:55 INFO  Truck - Truck [numberTruck=1, typeOfGoods=NORMAL] loaded goods
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]left the ramp 5
+2021-03-09 00:02:55 INFO  Truck - Truck [numberTruck=2, typeOfGoods=NORMAL] loaded goods
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL]left the ramp 0
+2021-03-09 00:02:55 INFO  Truck - Truck [numberTruck=1, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:02:55 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY]left the ramp 9
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=PERISHABLE]took up the ramp 0
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL]took up the ramp 1
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY]took up the ramp 2
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL]took up the ramp 3
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY]took up the ramp 4
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=PERISHABLE]took up the ramp 5
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=PERISHABLE]took up the ramp 6
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:04:25 INFO  Truck - Truck [numberTruck=4, typeOfGoods=NORMAL] loaded goods
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL]left the ramp 2
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]took up the ramp 2
+2021-03-09 00:04:25 INFO  Truck - Truck [numberTruck=2, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]left the ramp 3
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=EMPTY]took up the ramp 3
+2021-03-09 00:04:25 INFO  Truck - Truck [numberTruck=1, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=PERISHABLE]took up the ramp 5
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY]left the ramp 5
+2021-03-09 00:04:25 INFO  Truck - Truck [numberTruck=1, typeOfGoods=NORMAL] loaded goods
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]left the ramp 4
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]took up the ramp 4
+2021-03-09 00:04:25 INFO  Truck - Truck [numberTruck=1, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY]left the ramp 2
+2021-03-09 00:04:25 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]took up the ramp 2
+2021-03-09 00:04:26 INFO  Truck - Truck [numberTruck=0, typeOfGoods=NORMAL] loaded goods
+2021-03-09 00:04:26 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL]took up the ramp 3
+2021-03-09 00:04:26 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]left the ramp 3
+2021-03-09 00:04:26 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:04:26 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY]left the ramp 3
+2021-03-09 00:04:26 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=PERISHABLE]took up the ramp 3
+2021-03-09 00:04:26 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:04:26 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY]left the ramp 6
+2021-03-09 00:04:26 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]took up the ramp 6
+2021-03-09 00:04:26 INFO  Truck - Truck [numberTruck=3, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:04:26 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]left the ramp 5
+2021-03-09 00:04:26 INFO  Truck - Truck [numberTruck=3, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:04:26 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]left the ramp 1
+2021-03-09 00:04:26 INFO  Truck - Truck [numberTruck=2, typeOfGoods=NORMAL] loaded goods
+2021-03-09 00:04:26 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL]left the ramp 4
+2021-03-09 00:04:26 INFO  Truck - Truck [numberTruck=0, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:04:26 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=EMPTY]left the ramp 0
+2021-03-09 00:04:26 INFO  Truck - Truck [numberTruck=2, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:04:26 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]left the ramp 3
+2021-03-09 00:04:26 INFO  Truck - Truck [numberTruck=3, typeOfGoods=NORMAL] loaded goods
+2021-03-09 00:04:26 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL]left the ramp 2
+2021-03-09 00:04:26 INFO  Truck - Truck [numberTruck=0, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:04:26 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=EMPTY]left the ramp 6
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=PERISHABLE]took up the ramp 0
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=11, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=14, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=13, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=12, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=11, typeOfGoods=EMPTY]took up the ramp 1
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE]took up the ramp 2
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL]took up the ramp 3
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=13, typeOfGoods=EMPTY]took up the ramp 4
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=PERISHABLE]took up the ramp 5
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=14, typeOfGoods=EMPTY]took up the ramp 6
+2021-03-09 00:06:38 INFO  Truck - Truck [numberTruck=13, typeOfGoods=NORMAL] loaded goods
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]took up the ramp 4
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=13, typeOfGoods=NORMAL]left the ramp 4
+2021-03-09 00:06:38 INFO  Truck - Truck [numberTruck=14, typeOfGoods=NORMAL] loaded goods
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=14, typeOfGoods=NORMAL]left the ramp 6
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=12, typeOfGoods=EMPTY]took up the ramp 6
+2021-03-09 00:06:38 INFO  Truck - Truck [numberTruck=2, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=PERISHABLE]took up the ramp 3
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]left the ramp 3
+2021-03-09 00:06:38 INFO  Truck - Truck [numberTruck=6, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY]left the ramp 0
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL]took up the ramp 0
+2021-03-09 00:06:38 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]took up the ramp 0
+2021-03-09 00:06:38 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY]left the ramp 0
+2021-03-09 00:06:39 INFO  Truck - Truck [numberTruck=5, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:06:39 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=EMPTY]left the ramp 5
+2021-03-09 00:06:39 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY]took up the ramp 5
+2021-03-09 00:06:39 INFO  Truck - Truck [numberTruck=11, typeOfGoods=NORMAL] loaded goods
+2021-03-09 00:06:39 INFO  LogisticsBase - Truck [numberTruck=11, typeOfGoods=NORMAL]left the ramp 1
+2021-03-09 00:06:39 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL]took up the ramp 1
+2021-03-09 00:06:39 INFO  Truck - Truck [numberTruck=7, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:06:39 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=EMPTY]left the ramp 2
+2021-03-09 00:06:39 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=PERISHABLE]took up the ramp 2
+2021-03-09 00:06:39 INFO  Truck - Truck [numberTruck=8, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:06:39 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=EMPTY]left the ramp 3
+2021-03-09 00:06:39 INFO  Truck - Truck [numberTruck=10, typeOfGoods=NORMAL] loaded goods
+2021-03-09 00:06:39 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=NORMAL]left the ramp 5
+2021-03-09 00:06:39 INFO  Truck - Truck [numberTruck=0, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:06:39 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=EMPTY]left the ramp 0
+2021-03-09 00:06:39 INFO  Truck - Truck [numberTruck=1, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:06:39 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY]left the ramp 4
+2021-03-09 00:06:39 INFO  Truck - Truck [numberTruck=12, typeOfGoods=NORMAL] loaded goods
+2021-03-09 00:06:39 INFO  LogisticsBase - Truck [numberTruck=12, typeOfGoods=NORMAL]left the ramp 6
+2021-03-09 00:06:39 INFO  Truck - Truck [numberTruck=9, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:06:39 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=EMPTY]left the ramp 2
+2021-03-09 00:06:39 INFO  Truck - Truck [numberTruck=3, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 00:06:39 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]left the ramp 1
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=13, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=PERISHABLE]took up the ramp 0
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]took up the ramp 1
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=14, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL]took up the ramp 2
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=PERISHABLE]took up the ramp 3
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=11, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=14, typeOfGoods=EMPTY]took up the ramp 4
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=12, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL]took up the ramp 5
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=PERISHABLE]took up the ramp 6
+2021-03-09 08:48:03 INFO  Truck - Truck [numberTruck=14, typeOfGoods=NORMAL] loaded goods
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=14, typeOfGoods=NORMAL]left the ramp 4
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY]took up the ramp 4
+2021-03-09 08:48:03 INFO  Truck - Truck [numberTruck=10, typeOfGoods=NORMAL] loaded goods
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=NORMAL]left the ramp 4
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=12, typeOfGoods=EMPTY]took up the ramp 4
+2021-03-09 08:48:03 INFO  Truck - Truck [numberTruck=8, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=EMPTY]left the ramp 6
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=11, typeOfGoods=EMPTY]took up the ramp 6
+2021-03-09 08:48:03 INFO  Truck - Truck [numberTruck=11, typeOfGoods=NORMAL] loaded goods
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=11, typeOfGoods=NORMAL]left the ramp 6
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]took up the ramp 6
+2021-03-09 08:48:03 INFO  Truck - Truck [numberTruck=12, typeOfGoods=NORMAL] loaded goods
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=PERISHABLE]took up the ramp 4
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=12, typeOfGoods=NORMAL]left the ramp 4
+2021-03-09 08:48:03 INFO  Truck - Truck [numberTruck=6, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY]left the ramp 4
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE]took up the ramp 4
+2021-03-09 08:48:03 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY]left the ramp 5
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL]took up the ramp 5
+2021-03-09 08:48:03 INFO  Truck - Truck [numberTruck=2, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=13, typeOfGoods=EMPTY]took up the ramp 2
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]left the ramp 2
+2021-03-09 08:48:03 INFO  Truck - Truck [numberTruck=5, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=EMPTY]left the ramp 3
+2021-03-09 08:48:03 INFO  Truck - Truck [numberTruck=0, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=EMPTY]left the ramp 6
+2021-03-09 08:48:03 INFO  Truck - Truck [numberTruck=9, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=EMPTY]left the ramp 0
+2021-03-09 08:48:03 INFO  Truck - Truck [numberTruck=3, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]left the ramp 5
+2021-03-09 08:48:03 INFO  Truck - Truck [numberTruck=1, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY]left the ramp 1
+2021-03-09 08:48:03 INFO  Truck - Truck [numberTruck=13, typeOfGoods=NORMAL] loaded goods
+2021-03-09 08:48:03 INFO  LogisticsBase - Truck [numberTruck=13, typeOfGoods=NORMAL]left the ramp 2
+2021-03-09 08:48:04 INFO  Truck - Truck [numberTruck=7, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 08:48:04 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=EMPTY]left the ramp 4
+2021-03-09 14:21:50 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 14:21:50 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 14:21:50 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 14:21:50 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 14:21:50 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 14:21:50 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]took up the ramp 0
+2021-03-09 14:21:50 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=PERISHABLE]took up the ramp 1
+2021-03-09 14:21:50 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]took up the ramp 2
+2021-03-09 14:21:50 INFO  Truck - Truck [numberTruck=3, typeOfGoods=NORMAL] loaded goods
+2021-03-09 14:21:50 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL]left the ramp 2
+2021-03-09 14:21:50 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]took up the ramp 2
+2021-03-09 14:21:50 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 14:21:50 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY]left the ramp 1
+2021-03-09 14:21:50 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]took up the ramp 1
+2021-03-09 14:21:50 INFO  Truck - Truck [numberTruck=0, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 14:21:50 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=EMPTY]left the ramp 0
+2021-03-09 14:21:50 INFO  Truck - Truck [numberTruck=1, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 14:21:50 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY]left the ramp 1
+2021-03-09 14:21:51 INFO  Truck - Truck [numberTruck=2, typeOfGoods=NORMAL] loaded goods
+2021-03-09 14:21:51 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL]left the ramp 2
+2021-03-09 14:24:22 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 14:24:22 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 14:24:22 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 14:24:22 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 14:24:22 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 14:24:22 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 14:24:22 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=PERISHABLE]took up the ramp 0
+2021-03-09 14:24:22 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]took up the ramp 1
+2021-03-09 14:24:22 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]took up the ramp 2
+2021-03-09 14:24:22 INFO  Truck - Truck [numberTruck=1, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 14:24:22 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY]left the ramp 2
+2021-03-09 14:24:22 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]took up the ramp 2
+2021-03-09 14:24:22 INFO  Truck - Truck [numberTruck=0, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 14:24:22 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=EMPTY]left the ramp 1
+2021-03-09 14:24:22 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=PERISHABLE]took up the ramp 1
+2021-03-09 14:24:23 INFO  Truck - Truck [numberTruck=3, typeOfGoods=NORMAL] loaded goods
+2021-03-09 14:24:23 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL]left the ramp 2
+2021-03-09 14:24:23 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]took up the ramp 2
+2021-03-09 14:24:23 INFO  Truck - Truck [numberTruck=5, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 14:24:23 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=EMPTY]left the ramp 0
+2021-03-09 14:24:23 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 14:24:23 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY]left the ramp 1
+2021-03-09 14:24:23 INFO  Truck - Truck [numberTruck=2, typeOfGoods=NORMAL] loaded goods
+2021-03-09 14:24:23 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL]left the ramp 2
+2021-03-09 14:41:15 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 14:41:15 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 14:41:15 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 14:41:15 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 14:41:15 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 14:41:15 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 14:41:15 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]took up the ramp 0
+2021-03-09 14:41:15 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]took up the ramp 1
+2021-03-09 14:41:15 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]took up the ramp 2
+2021-03-09 14:41:16 INFO  Truck - Truck [numberTruck=0, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 14:41:16 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=PERISHABLE]took up the ramp 1
+2021-03-09 14:41:16 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=EMPTY]left the ramp 1
+2021-03-09 14:41:16 INFO  Truck - Truck [numberTruck=3, typeOfGoods=NORMAL] loaded goods
+2021-03-09 14:41:16 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL]left the ramp 0
+2021-03-09 14:41:16 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]took up the ramp 0
+2021-03-09 14:41:16 INFO  Truck - Truck [numberTruck=2, typeOfGoods=NORMAL] loaded goods
+2021-03-09 14:41:16 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL]left the ramp 2
+2021-03-09 14:41:16 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=PERISHABLE]took up the ramp 2
+2021-03-09 14:41:16 INFO  Truck - Truck [numberTruck=5, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 14:41:16 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=EMPTY]left the ramp 1
+2021-03-09 14:41:16 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 14:41:16 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY]left the ramp 2
+2021-03-09 14:41:16 INFO  Truck - Truck [numberTruck=1, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 14:41:16 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY]left the ramp 0
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=PERISHABLE]took up the ramp 0
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]took up the ramp 1
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]took up the ramp 2
+2021-03-09 14:44:02 INFO  Truck - Truck [numberTruck=3, typeOfGoods=NORMAL] loaded goods
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL]left the ramp 2
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]took up the ramp 2
+2021-03-09 14:44:02 INFO  Truck - Truck [numberTruck=5, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=EMPTY]left the ramp 0
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=PERISHABLE]took up the ramp 0
+2021-03-09 14:44:02 INFO  Truck - Truck [numberTruck=2, typeOfGoods=NORMAL] loaded goods
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL]left the ramp 1
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]took up the ramp 1
+2021-03-09 14:44:02 INFO  Truck - Truck [numberTruck=0, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=EMPTY]left the ramp 2
+2021-03-09 14:44:02 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY]left the ramp 0
+2021-03-09 14:44:02 INFO  Truck - Truck [numberTruck=1, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 14:44:02 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY]left the ramp 1
+2021-03-09 15:18:34 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 15:18:34 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 15:18:34 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 15:18:34 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 15:18:34 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 15:18:34 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 15:18:34 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]took up the ramp 0
+2021-03-09 15:18:34 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=PERISHABLE]took up the ramp 1
+2021-03-09 15:18:34 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=PERISHABLE]took up the ramp 2
+2021-03-09 15:18:35 INFO  Truck - Truck [numberTruck=2, typeOfGoods=NORMAL] loaded goods
+2021-03-09 15:18:35 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL]left the ramp 0
+2021-03-09 15:18:35 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]took up the ramp 0
+2021-03-09 15:18:35 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 15:18:35 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY]left the ramp 2
+2021-03-09 15:18:35 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]took up the ramp 2
+2021-03-09 15:18:35 INFO  Truck - Truck [numberTruck=5, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 15:18:35 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=EMPTY]left the ramp 1
+2021-03-09 15:18:35 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]took up the ramp 1
+2021-03-09 15:18:35 INFO  Truck - Truck [numberTruck=1, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 15:18:35 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY]left the ramp 1
+2021-03-09 15:18:35 INFO  Truck - Truck [numberTruck=3, typeOfGoods=NORMAL] loaded goods
+2021-03-09 15:18:35 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL]left the ramp 0
+2021-03-09 15:18:35 INFO  Truck - Truck [numberTruck=0, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 15:18:35 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=EMPTY]left the ramp 2
+2021-03-09 15:39:46 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 15:39:46 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL]arrived at the logistics base and took the line
+2021-03-09 15:39:46 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 15:39:46 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 15:39:46 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY]arrived at the logistics base and took the line
+2021-03-09 15:39:46 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=PERISHABLE]arrived at the logistics base and took the line
+2021-03-09 15:39:46 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=PERISHABLE]took up the ramp 0
+2021-03-09 15:39:46 ERROR Truck - Current thread Thread-5 was interrupted
+2021-03-09 15:39:46 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=PERISHABLE]took up the ramp 1
+2021-03-09 15:39:46 ERROR Truck - Current thread Thread-4 was interrupted
+2021-03-09 15:39:46 INFO  LogisticsBase - Truck [numberTruck=0, typeOfGoods=NORMAL]took up the ramp 2
+2021-03-09 15:39:46 ERROR Truck - Current thread Thread-0 was interrupted
+2021-03-09 16:31:03 ERROR DataReaderImpl - file resources/data/trucks.txt not found
+java.nio.file.NoSuchFileException: resources\data\trucks.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newFileChannel(WindowsFileSystemProvider.java:120) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:292) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:345) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4099) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4191) ~[?:?]
+	at by.epam.task05.reader.impl.DataReaderImpl.readAll(DataReaderImpl.java:28) [classes/:?]
+	at by.epam.task05.main.Main.main(Main.java:16) [classes/:?]
+2021-03-09 16:32:15 INFO  DataReaderImpl - read data from file : [1 EMPTY, 2 NORMAL, 3 EMPTY, 4 NORMAL, 5 NORMAL, 6 EMPTY, 7 PERISHABLE, 8 NORMAL, 9 NORMAL, 10 EMPTY]
+2021-03-09 16:32:15 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] arrived at the logistics base and took the line
+2021-03-09 16:32:15 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:32:15 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:32:15 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:32:15 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] took up the ramp 0
+2021-03-09 16:32:15 ERROR Truck - Current thread Thread-2 was interrupted
+2021-03-09 16:32:15 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:32:15 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:32:15 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:32:15 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:32:15 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:32:15 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:32:15 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] took up the ramp 1
+2021-03-09 16:32:15 ERROR Truck - Current thread Thread-0 was interrupted
+2021-03-09 16:32:15 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] took up the ramp 2
+2021-03-09 16:32:15 ERROR Truck - Current thread Thread-7 was interrupted
+2021-03-09 16:35:24 INFO  DataReaderImpl - read data from file : [1 EMPTY, 2 NORMAL, 3 EMPTY, 4 NORMAL, 5 NORMAL, 6 EMPTY, 7 PERISHABLE, 8 NORMAL, 9 NORMAL, 10 EMPTY]
+2021-03-09 16:35:24 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:35:24 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:35:24 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:35:24 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:35:24 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:35:24 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] took up the ramp 0
+2021-03-09 16:35:24 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:35:24 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:35:24 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] arrived at the logistics base and took the line
+2021-03-09 16:35:24 ERROR Truck - Current thread Truck [numberTruck=9, typeOfGoods=NORMAL] was interrupted
+2021-03-09 16:35:24 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:35:24 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:35:24 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] took up the ramp 1
+2021-03-09 16:35:24 ERROR Truck - Current thread Truck [numberTruck=1, typeOfGoods=EMPTY] was interrupted
+2021-03-09 16:35:24 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] took up the ramp 2
+2021-03-09 16:35:24 ERROR Truck - Current thread Truck [numberTruck=4, typeOfGoods=NORMAL] was interrupted
+2021-03-09 16:37:44 INFO  DataReaderImpl - read data from file : [1 EMPTY, 2 NORMAL, 3 EMPTY, 4 NORMAL, 5 NORMAL, 6 EMPTY, 7 PERISHABLE, 8 NORMAL, 9 NORMAL, 10 EMPTY]
+2021-03-09 16:37:44 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:37:44 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:37:44 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:37:44 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] arrived at the logistics base and took the line
+2021-03-09 16:37:44 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:37:44 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:37:44 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] took up the ramp 0
+2021-03-09 16:37:44 ERROR Truck - 2Current thread Truck [numberTruck=7, typeOfGoods=PERISHABLE] was interrupted
+2021-03-09 16:37:44 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] took up the ramp 1
+2021-03-09 16:37:44 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] took up the ramp 2
+2021-03-09 16:37:44 ERROR Truck - 2Current thread Truck [numberTruck=2, typeOfGoods=NORMAL] was interrupted
+2021-03-09 16:37:44 ERROR Truck - 2Current thread Truck [numberTruck=3, typeOfGoods=EMPTY] was interrupted
+2021-03-09 16:37:44 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:37:44 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:37:44 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:37:44 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:39:08 INFO  DataReaderImpl - read data from file : [1 EMPTY, 2 NORMAL, 3 EMPTY, 4 NORMAL, 5 NORMAL, 6 EMPTY, 7 PERISHABLE, 8 NORMAL, 9 NORMAL, 10 EMPTY]
+2021-03-09 16:39:08 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:39:08 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:39:08 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:39:08 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:39:08 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:39:08 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] took up the ramp 0
+2021-03-09 16:39:08 ERROR Truck - 2Current thread Truck [numberTruck=4, typeOfGoods=NORMAL] was interrupted
+2021-03-09 16:39:08 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] arrived at the logistics base and took the line
+2021-03-09 16:39:08 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:39:08 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:39:08 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:39:08 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:39:08 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] took up the ramp 1
+2021-03-09 16:39:08 ERROR Truck - 2Current thread Truck [numberTruck=1, typeOfGoods=EMPTY] was interrupted
+2021-03-09 16:39:08 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] took up the ramp 2
+2021-03-09 16:39:08 ERROR Truck - 2Current thread Truck [numberTruck=9, typeOfGoods=NORMAL] was interrupted
+2021-03-09 16:43:04 INFO  DataReaderImpl - read data from file : [1 EMPTY, 2 NORMAL, 3 EMPTY, 4 NORMAL, 5 NORMAL, 6 EMPTY, 7 PERISHABLE, 8 NORMAL, 9 NORMAL, 10 EMPTY]
+2021-03-09 16:43:04 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:43:04 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:43:04 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:43:04 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] arrived at the logistics base and took the line
+2021-03-09 16:43:04 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:43:04 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] took up the ramp 0
+2021-03-09 16:43:04 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:43:04 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:43:04 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:43:04 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] took up the ramp 1
+2021-03-09 16:43:04 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:43:04 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] took up the ramp 2
+2021-03-09 16:43:04 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:43:04 INFO  Truck - Truck [numberTruck=1, typeOfGoods=NORMAL] loaded goods
+2021-03-09 16:43:04 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL] left the ramp 0
+2021-03-09 16:43:04 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] took up the ramp 0
+2021-03-09 16:43:05 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:43:05 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY] left the ramp 2
+2021-03-09 16:43:05 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] took up the ramp 2
+2021-03-09 16:43:05 INFO  Truck - Truck [numberTruck=7, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:43:05 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 16:43:05 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] took up the ramp 1
+2021-03-09 16:43:05 INFO  Truck - Truck [numberTruck=8, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:43:05 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 16:43:05 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] took up the ramp 1
+2021-03-09 16:43:05 INFO  Truck - Truck [numberTruck=6, typeOfGoods=NORMAL] loaded goods
+2021-03-09 16:43:05 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=NORMAL] left the ramp 2
+2021-03-09 16:43:05 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] took up the ramp 2
+2021-03-09 16:43:05 INFO  Truck - Truck [numberTruck=10, typeOfGoods=NORMAL] loaded goods
+2021-03-09 16:43:05 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=NORMAL] left the ramp 0
+2021-03-09 16:43:05 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] took up the ramp 0
+2021-03-09 16:43:05 INFO  Truck - Truck [numberTruck=9, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:43:05 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=EMPTY] left the ramp 0
+2021-03-09 16:43:05 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] took up the ramp 0
+2021-03-09 16:43:05 INFO  Truck - Truck [numberTruck=3, typeOfGoods=NORMAL] loaded goods
+2021-03-09 16:43:05 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL] left the ramp 2
+2021-03-09 16:43:05 INFO  Truck - Truck [numberTruck=2, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:43:05 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY] left the ramp 0
+2021-03-09 16:43:05 INFO  Truck - Truck [numberTruck=5, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:43:05 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 16:49:47 INFO  DataReaderImpl - read data from file : [1 EMPTY, 2 NORMAL, 3 EMPTY, 4 NORMAL, 5 NORMAL, 6 EMPTY, 7 PERISHABLE, 8 NORMAL, 9 NORMAL, 10 EMPTY]
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] arrived at the logistics base and took the line
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] took up the ramp 0
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] took up the ramp 1
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] took up the ramp 2
+2021-03-09 16:49:47 INFO  Truck - Truck [numberTruck=10, typeOfGoods=NORMAL] loaded goods
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=NORMAL] left the ramp 0
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] took up the ramp 0
+2021-03-09 16:49:47 INFO  Truck - Truck [numberTruck=6, typeOfGoods=NORMAL] loaded goods
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=NORMAL] left the ramp 1
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] took up the ramp 1
+2021-03-09 16:49:47 INFO  Truck - Truck [numberTruck=8, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=EMPTY] left the ramp 2
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] took up the ramp 2
+2021-03-09 16:49:47 INFO  Truck - Truck [numberTruck=1, typeOfGoods=NORMAL] loaded goods
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL] left the ramp 1
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] took up the ramp 1
+2021-03-09 16:49:47 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] took up the ramp 1
+2021-03-09 16:49:47 INFO  Truck - Truck [numberTruck=7, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=EMPTY] left the ramp 0
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] took up the ramp 0
+2021-03-09 16:49:47 INFO  Truck - Truck [numberTruck=5, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=EMPTY] left the ramp 2
+2021-03-09 16:49:47 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] took up the ramp 2
+2021-03-09 16:49:48 INFO  Truck - Truck [numberTruck=3, typeOfGoods=NORMAL] loaded goods
+2021-03-09 16:49:48 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL] left the ramp 1
+2021-03-09 16:49:48 INFO  Truck - Truck [numberTruck=9, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:49:48 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=EMPTY] left the ramp 2
+2021-03-09 16:49:48 INFO  Truck - Truck [numberTruck=2, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:49:48 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY] left the ramp 0
+2021-03-09 16:57:47 INFO  DataReaderImpl - read data from file : [1 EMPTY, 2 NORMAL, 3 EMPTY, 4 NORMAL, 5 NORMAL, 6 EMPTY, 7 PERISHABLE, 8 NORMAL, 9 NORMAL, 10 EMPTY]
+2021-03-09 16:57:47 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:57:47 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:57:47 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:57:47 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] arrived at the logistics base and took the line
+2021-03-09 16:57:47 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:57:47 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:57:47 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 16:57:47 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:57:47 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:57:47 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 16:57:47 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] took up the ramp 0
+2021-03-09 16:57:47 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] took up the ramp 1
+2021-03-09 16:57:47 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] took up the ramp 2
+2021-03-09 16:57:48 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:57:48 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY] left the ramp 2
+2021-03-09 16:57:48 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] took up the ramp 2
+2021-03-09 16:57:48 INFO  Truck - Truck [numberTruck=1, typeOfGoods=NORMAL] loaded goods
+2021-03-09 16:57:48 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL] left the ramp 0
+2021-03-09 16:57:48 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] took up the ramp 0
+2021-03-09 16:57:48 INFO  Truck - Truck [numberTruck=2, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:57:48 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY] left the ramp 2
+2021-03-09 16:57:48 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] took up the ramp 2
+2021-03-09 16:57:48 INFO  Truck - Truck [numberTruck=7, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:57:48 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 16:57:48 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] took up the ramp 1
+2021-03-09 16:57:48 INFO  Truck - Truck [numberTruck=6, typeOfGoods=NORMAL] loaded goods
+2021-03-09 16:57:48 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=NORMAL] left the ramp 1
+2021-03-09 16:57:48 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] took up the ramp 1
+2021-03-09 16:57:48 INFO  Truck - Truck [numberTruck=5, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:57:48 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 16:57:48 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] took up the ramp 1
+2021-03-09 16:57:48 INFO  Truck - Truck [numberTruck=8, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:57:48 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=EMPTY] left the ramp 2
+2021-03-09 16:57:48 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] took up the ramp 2
+2021-03-09 16:57:48 INFO  Truck - Truck [numberTruck=9, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 16:57:48 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=EMPTY] left the ramp 0
+2021-03-09 16:57:48 INFO  Truck - Truck [numberTruck=10, typeOfGoods=NORMAL] loaded goods
+2021-03-09 16:57:48 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=NORMAL] left the ramp 1
+2021-03-09 16:57:48 INFO  Truck - Truck [numberTruck=3, typeOfGoods=NORMAL] loaded goods
+2021-03-09 16:57:48 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL] left the ramp 2
+2021-03-09 19:57:20 INFO  DataReaderImpl - read data from file : [1 EMPTY, 2 NORMAL, 3 EMPTY, 4 NORMAL, 5 NORMAL, 6 EMPTY, 7 PERISHABLE, 8 NORMAL, 9 NORMAL, 10 EMPTY]
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] took up the ramp 0
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] arrived at the logistics base and took the line
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] took up the ramp 1
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] took up the ramp 2
+2021-03-09 19:57:20 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] took up the ramp 1
+2021-03-09 19:57:20 INFO  Truck - Truck [numberTruck=10, typeOfGoods=NORMAL] loaded goods
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=NORMAL] left the ramp 2
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] took up the ramp 2
+2021-03-09 19:57:20 INFO  Truck - Truck [numberTruck=6, typeOfGoods=NORMAL] loaded goods
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=NORMAL] left the ramp 1
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] took up the ramp 1
+2021-03-09 19:57:20 INFO  Truck - Truck [numberTruck=7, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=EMPTY] left the ramp 2
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] took up the ramp 2
+2021-03-09 19:57:20 INFO  Truck - Truck [numberTruck=1, typeOfGoods=NORMAL] loaded goods
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL] left the ramp 0
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] took up the ramp 0
+2021-03-09 19:57:20 INFO  Truck - Truck [numberTruck=8, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=EMPTY] left the ramp 0
+2021-03-09 19:57:20 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] took up the ramp 0
+2021-03-09 19:57:21 INFO  Truck - Truck [numberTruck=3, typeOfGoods=NORMAL] loaded goods
+2021-03-09 19:57:21 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL] left the ramp 1
+2021-03-09 19:57:21 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] took up the ramp 1
+2021-03-09 19:57:21 INFO  Truck - Truck [numberTruck=2, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 19:57:21 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY] left the ramp 2
+2021-03-09 19:57:21 INFO  Truck - Truck [numberTruck=5, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 19:57:21 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=EMPTY] left the ramp 0
+2021-03-09 19:57:21 INFO  Truck - Truck [numberTruck=9, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 19:57:21 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 20:16:11 INFO  DataReaderImpl - read data from file : [1 EMPTY, 2 NORMAL, 3 EMPTY, 4 NORMAL, 5 NORMAL, 6 EMPTY, 7 PERISHABLE, 8 NORMAL, 9 NORMAL, 10 EMPTY]
+2021-03-09 20:16:11 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 20:16:11 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 20:16:11 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 20:16:11 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 20:16:11 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 20:16:11 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] arrived at the logistics base and took the line
+2021-03-09 20:16:11 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 20:16:11 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] took up the ramp 0
+2021-03-09 20:16:11 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 20:16:11 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 20:16:11 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 20:16:11 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] took up the ramp 1
+2021-03-09 20:16:11 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] took up the ramp 2
+2021-03-09 20:16:11 INFO  Truck - Truck [numberTruck=1, typeOfGoods=NORMAL] loaded goods
+2021-03-09 20:16:11 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL] left the ramp 2
+2021-03-09 20:16:11 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] took up the ramp 2
+2021-03-09 20:16:12 INFO  Truck - Truck [numberTruck=8, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:16:12 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 20:16:12 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] took up the ramp 1
+2021-03-09 20:16:12 INFO  Truck - Truck [numberTruck=7, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:16:12 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=EMPTY] left the ramp 0
+2021-03-09 20:16:12 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] took up the ramp 0
+2021-03-09 20:16:12 INFO  Truck - Truck [numberTruck=2, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:16:12 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 20:16:12 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] took up the ramp 1
+2021-03-09 20:16:12 INFO  Truck - Truck [numberTruck=5, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:16:12 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=EMPTY] left the ramp 2
+2021-03-09 20:16:12 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] took up the ramp 2
+2021-03-09 20:16:12 INFO  Truck - Truck [numberTruck=9, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:16:12 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 20:16:12 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] took up the ramp 1
+2021-03-09 20:16:12 INFO  Truck - Truck [numberTruck=10, typeOfGoods=NORMAL] loaded goods
+2021-03-09 20:16:12 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=NORMAL] left the ramp 0
+2021-03-09 20:16:12 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] took up the ramp 0
+2021-03-09 20:16:12 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:16:12 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY] left the ramp 0
+2021-03-09 20:16:12 INFO  Truck - Truck [numberTruck=3, typeOfGoods=NORMAL] loaded goods
+2021-03-09 20:16:12 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL] left the ramp 2
+2021-03-09 20:16:12 INFO  Truck - Truck [numberTruck=6, typeOfGoods=NORMAL] loaded goods
+2021-03-09 20:16:12 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=NORMAL] left the ramp 1
+2021-03-09 20:22:45 INFO  DataReaderImpl - read data from file : [1 EMPTY, 2 NORMAL, 3 EMPTY, 4 NORMAL, 5 NORMAL, 6 EMPTY, 7 PERISHABLE, 8 NORMAL, 9 NORMAL, 10 EMPTY]
+2021-03-09 20:22:45 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] arrived at the logistics base and took the line
+2021-03-09 20:22:45 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 20:22:45 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 20:22:45 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 20:22:45 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 20:22:45 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 20:22:45 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] took up the ramp 0
+2021-03-09 20:22:45 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 20:22:45 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 20:22:45 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 20:22:45 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 20:22:45 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] took up the ramp 1
+2021-03-09 20:22:45 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] took up the ramp 2
+2021-03-09 20:22:46 INFO  Truck - Truck [numberTruck=6, typeOfGoods=NORMAL] loaded goods
+2021-03-09 20:22:46 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=NORMAL] left the ramp 0
+2021-03-09 20:22:46 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] took up the ramp 0
+2021-03-09 20:22:46 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:22:46 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 20:22:46 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] took up the ramp 1
+2021-03-09 20:22:46 INFO  Truck - Truck [numberTruck=10, typeOfGoods=NORMAL] loaded goods
+2021-03-09 20:22:46 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=NORMAL] left the ramp 1
+2021-03-09 20:22:46 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] took up the ramp 1
+2021-03-09 20:22:46 INFO  Truck - Truck [numberTruck=3, typeOfGoods=NORMAL] loaded goods
+2021-03-09 20:22:46 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL] left the ramp 0
+2021-03-09 20:22:46 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] took up the ramp 0
+2021-03-09 20:22:46 INFO  Truck - Truck [numberTruck=1, typeOfGoods=NORMAL] loaded goods
+2021-03-09 20:22:46 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL] left the ramp 2
+2021-03-09 20:22:46 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] took up the ramp 2
+2021-03-09 20:22:46 INFO  Truck - Truck [numberTruck=2, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:22:46 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY] left the ramp 2
+2021-03-09 20:22:46 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] took up the ramp 2
+2021-03-09 20:22:46 INFO  Truck - Truck [numberTruck=7, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:22:46 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 20:22:46 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] took up the ramp 1
+2021-03-09 20:22:46 INFO  Truck - Truck [numberTruck=8, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:22:46 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 20:22:46 INFO  Truck - Truck [numberTruck=5, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:22:46 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=EMPTY] left the ramp 0
+2021-03-09 20:22:46 INFO  Truck - Truck [numberTruck=9, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:22:46 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=EMPTY] left the ramp 2
+2021-03-09 20:25:18 INFO  DataReaderImpl - read data from file : [1 EMPTY, 2 NORMAL, 3 EMPTY, 4 NORMAL, 5 NORMAL, 6 EMPTY, 7 PERISHABLE, 8 NORMAL, 9 NORMAL, 10 EMPTY]
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] arrived at the logistics base and took the line
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] took up the ramp 0
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] took up the ramp 1
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] took up the ramp 2
+2021-03-09 20:25:18 INFO  Truck - Truck [numberTruck=5, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] took up the ramp 1
+2021-03-09 20:25:18 INFO  Truck - Truck [numberTruck=8, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=EMPTY] left the ramp 2
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] took up the ramp 2
+2021-03-09 20:25:18 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] took up the ramp 1
+2021-03-09 20:25:18 INFO  Truck - Truck [numberTruck=9, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] took up the ramp 1
+2021-03-09 20:25:18 INFO  Truck - Truck [numberTruck=7, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=EMPTY] left the ramp 2
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] took up the ramp 2
+2021-03-09 20:25:18 INFO  Truck - Truck [numberTruck=1, typeOfGoods=NORMAL] loaded goods
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL] left the ramp 0
+2021-03-09 20:25:18 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] took up the ramp 0
+2021-03-09 20:25:19 INFO  Truck - Truck [numberTruck=3, typeOfGoods=NORMAL] loaded goods
+2021-03-09 20:25:19 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL] left the ramp 1
+2021-03-09 20:25:19 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] took up the ramp 1
+2021-03-09 20:25:19 INFO  Truck - Truck [numberTruck=10, typeOfGoods=NORMAL] loaded goods
+2021-03-09 20:25:19 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=NORMAL] left the ramp 2
+2021-03-09 20:25:19 INFO  Truck - Truck [numberTruck=2, typeOfGoods=EMPTY] unloaded goods
+2021-03-09 20:25:19 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY] left the ramp 1
+2021-03-09 20:25:19 INFO  Truck - Truck [numberTruck=6, typeOfGoods=NORMAL] loaded goods
+2021-03-09 20:25:19 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=NORMAL] left the ramp 0
+2021-03-13 18:45:36 INFO  DataReaderImpl - read data from file : [1 EMPTY, 2 NORMAL, 3 EMPTY, 4 NORMAL, 5 NORMAL, 6 EMPTY, 7 PERISHABLE, 8 NORMAL, 9 NORMAL, 10 EMPTY]
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] arrived at the logistics base and took the line
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=NORMAL] took up the ramp 0
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=EMPTY] took up the ramp 1
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] arrived at the logistics base and took the line
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=PERISHABLE] took up the ramp 2
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=EMPTY] took up the ramp 3
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] arrived at the logistics base and took the line
+2021-03-13 18:45:36 INFO  Truck - Truck [numberTruck=7, typeOfGoods=EMPTY] unloaded goods
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=7, typeOfGoods=EMPTY] left the ramp 2
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=NORMAL] took up the ramp 2
+2021-03-13 18:45:36 INFO  Truck - Truck [numberTruck=10, typeOfGoods=NORMAL] loaded goods
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=10, typeOfGoods=NORMAL] left the ramp 1
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=NORMAL] took up the ramp 1
+2021-03-13 18:45:36 INFO  Truck - Truck [numberTruck=8, typeOfGoods=EMPTY] unloaded goods
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=8, typeOfGoods=EMPTY] left the ramp 0
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=EMPTY] took up the ramp 0
+2021-03-13 18:45:36 INFO  Truck - Truck [numberTruck=6, typeOfGoods=NORMAL] loaded goods
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=6, typeOfGoods=NORMAL] left the ramp 3
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=NORMAL] took up the ramp 3
+2021-03-13 18:45:36 INFO  Truck - Truck [numberTruck=1, typeOfGoods=NORMAL] loaded goods
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=1, typeOfGoods=NORMAL] left the ramp 0
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=EMPTY] took up the ramp 0
+2021-03-13 18:45:36 INFO  Truck - Truck [numberTruck=3, typeOfGoods=NORMAL] loaded goods
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=3, typeOfGoods=NORMAL] left the ramp 0
+2021-03-13 18:45:36 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=NORMAL] took up the ramp 0
+2021-03-13 18:45:37 INFO  Truck - Truck [numberTruck=5, typeOfGoods=EMPTY] unloaded goods
+2021-03-13 18:45:37 INFO  LogisticsBase - Truck [numberTruck=5, typeOfGoods=EMPTY] left the ramp 2
+2021-03-13 18:45:37 INFO  Truck - Truck [numberTruck=2, typeOfGoods=EMPTY] unloaded goods
+2021-03-13 18:45:37 INFO  LogisticsBase - Truck [numberTruck=2, typeOfGoods=EMPTY] left the ramp 1
+2021-03-13 18:45:37 INFO  Truck - Truck [numberTruck=9, typeOfGoods=EMPTY] unloaded goods
+2021-03-13 18:45:37 INFO  LogisticsBase - Truck [numberTruck=9, typeOfGoods=EMPTY] left the ramp 3
+2021-03-13 18:45:37 INFO  Truck - Truck [numberTruck=4, typeOfGoods=EMPTY] unloaded goods
+2021-03-13 18:45:37 INFO  LogisticsBase - Truck [numberTruck=4, typeOfGoods=EMPTY] left the ramp 0
